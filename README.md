@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Delivery Management System - watchr (private repo)](https://github.com/HMinSatu)
 	- Tech Stacks:
-	- Ruby On Rails
-	- Ionic Vue.js (Typescript)
-	- Postgresql
+		- Ruby On Rails
+		- Ionic Vue.js (Typescript)
+		- Postgresql
 
 - 🌱 I’m currently learning **Elixir and Go**
 
