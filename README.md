@@ -4,10 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurringoringo&label=Profile%20views&color=0e75b6&style=flat" alt="arthurringoringo" /> </p>
 
 - 🔭 I’m currently working on [Delivery Management System - watchr (private repo)](https://github.com/HMinSatu)
-- Tech Stacks:
-- Ruby On Rails
-- Ionic Vue.js (Typescript)
-- Postgresql
+	- Tech Stacks:
+	- Ruby On Rails
+	- Ionic Vue.js (Typescript)
+	- Postgresql
 
 - 🌱 I’m currently learning **Elixir and Go**
 
