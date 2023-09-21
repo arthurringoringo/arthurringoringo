@@ -35,10 +35,8 @@
 
 <p>
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurringoringo&show_icons=true&locale=en&layout=compact" alt="arthurringoringo" />
-   <div class="column>
-	<a href="https://www.digitalocean.com/?refcode=23e9f0222ea1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
-	   <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" />
-   	</a>
-   </div>
+ <a href="https://www.digitalocean.com/?refcode=23e9f0222ea1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge">
+	 <img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" />
+ </a>
 </p>
 
