@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arthurringoringo&label=Profile%20views&color=0e75b6&style=flat" alt="arthurringoringo" /> </p>
 
+- Dead contribution? currently working on Bitbucket
 - 🔭 I’m currently working on [Delivery Management System - watchr (private repo)](https://github.com/HMinSatu)
 	- Tech Stacks:
 		- Ruby On Rails
